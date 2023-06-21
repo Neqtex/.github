@@ -1,2 +1,1 @@
-# .github
-www.neqtex.netlify.app
+neqtex.netlify.app
